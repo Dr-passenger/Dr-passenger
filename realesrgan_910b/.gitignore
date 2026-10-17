@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.test-tmp/
+models/
+*.mp4
+*.mkv
+.sr-*/

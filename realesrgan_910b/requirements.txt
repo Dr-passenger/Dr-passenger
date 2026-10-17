@@ -1,0 +1,4 @@
+# Install torch and torch_npu separately, matched to the server's existing CANN.
+# Do not replace the working H3 environment.
+numpy>=1.24,<3
+av>=16,<19
